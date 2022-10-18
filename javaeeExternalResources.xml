@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/9b192256_xml.xsd" />
+    <resource url="https://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/82b9804_web-app_2_5.xsd" />
+  </component>
+</application>
