@@ -50,7 +50,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.fatal.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
@@ -70,12 +69,11 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.error.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-65536" />
+                              <option name="color" value="-8388608" />
                               <option name="colorKey" value="GrepConsole.error.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -90,7 +88,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.warn.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
@@ -103,14 +100,12 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.info.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
@@ -129,11 +124,11 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.debug.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-16744320" />
                               <option name="colorKey" value="GrepConsole.debug.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -148,7 +143,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="colorKey" value="GrepConsole.trace.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
